@@ -1,10 +1,10 @@
-# st-question-bank
+# study-question-site(AI)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 ![GitHub Stars](https://img.shields.io/github/stars/your-username/wangye-question-bank?style=flat-square)
 
 ## 📚 项目介绍
-本仓库是基于**王业学习库**精选提炼的编程刷题资源库，专注服务于 Python 入门学习者、计算机专业学生及编程从业者。
+本仓库是基于**学习库**精选提炼的编程刷题资源库，专注服务于 Python 入门学习者、计算机专业学生及编程从业者。
 仓库聚焦 Python 语法基础、算法与数据结构、计算机学科核心考点三大方向，将零散题目系统化分类整理，配套详细解题思路与代码示例，旨在打造一个轻量化、实用性强的开源刷题平台，帮助学习者夯实编程基础、提升解题能力。
 
 ## ✨ 项目特色
