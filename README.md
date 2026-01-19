@@ -1,4 +1,5 @@
 # study-question-site(AI)
+## 仅供学习使用!!!
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 ![GitHub Stars](https://img.shields.io/github/stars/your-username/wangye-question-bank?style=flat-square)
